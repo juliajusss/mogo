@@ -661,7 +661,7 @@ font-family: 'Roboto', sans-serif;
             height: 100%;
             background-size: cover;
             background-position: center;
-            background-image: linear-gradient(to bottom, rgba(255, 255, 255, .85), rgba(255, 255, 255, .85)), url("./images/clients/background.png");
+            background-image: linear-gradient(to bottom, rgba(255, 255, 255, .85), rgba(255, 255, 255, .85)), url("../images/clients/background.png");
         }
         
         .clients {
