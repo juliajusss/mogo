@@ -189,7 +189,7 @@ font-family: 'Roboto', sans-serif;
         .section.feauture {
             max-width: 100%;
             height: 100%;
-            background-image: linear-gradient(to bottom, rgba(255, 255, 255, .85), rgba(255, 255, 255, .85)), url("./images/Layer\ 45.png");
+            background-image: linear-gradient(to bottom, rgba(255, 255, 255, .85), rgba(255, 255, 255, .85)), url("../images/Layer\ 45.png");
             background-size: cover;
             background-position: center;
             padding-bottom: 0;
